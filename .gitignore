@@ -4,3 +4,9 @@ obj
 .DS_Store
 appsettings.json
 *.db
+Instructions+for+running+the+source+code.txt
+/API/Program.cs.bak
+/API/Startup.cs.bak
+/ef commands.txt
+/GIt Commands in terminal.txt
+/React Commands.txt
